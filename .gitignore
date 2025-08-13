@@ -1,1 +1,19 @@
+# Arquivos de ambiente e segredos
 .env
+
+# Pasta do ambiente virtual
+venv/
+/venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Pastas de saída geradas pelo seu app
+output/
+segmentos_alinhados_temp/
+
+# Arquivos temporários
+*.tmp
+*.wav
+*.mp3
