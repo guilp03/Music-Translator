@@ -1,12 +1,3 @@
-# app.py
-
-import gradio as gr
-import os
-from dotenv import load_dotenv
-
-# --- 1. IMPORTAÇÃO DE TODAS AS SUAS FERRAMENTAS ---
-# app.py
-
 import gradio as gr
 import os
 from dotenv import load_dotenv
